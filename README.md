@@ -2,8 +2,6 @@
 
 Práctica de modelos de machine learning con un dataset de Kaggle que contiene datos alusivos a ventas online de un retailer.
 
-TEST1
-
 ## Estructura
 
 - `data/raw/`: datasets originales de Kaggle (no se suben a GitHub).
