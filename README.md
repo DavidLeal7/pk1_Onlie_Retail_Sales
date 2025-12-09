@@ -1,6 +1,6 @@
 # Proyecto Kaggle 1 | Online Retail Sales
 
-Práctica de modelos de machine learning con un dataset de Kaggle.
+Práctica de modelos de machine learning con un dataset de Kaggle que contiene datos alusivos a ventas online de un retailer.
 
 ## Estructura
 
