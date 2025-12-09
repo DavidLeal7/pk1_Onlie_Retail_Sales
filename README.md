@@ -1,4 +1,4 @@
-# Proyecto Kaggle 1
+# Proyecto Kaggle 1 | Online Retail Sales
 
 Práctica de modelos de machine learning con un dataset de Kaggle.
 
